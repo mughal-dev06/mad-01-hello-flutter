@@ -38,4 +38,4 @@ Replace this picture with your own. Take a screenshot of the app on your phone, 
 
 ## AI note
 
-Replace this line with one sentence that says what you asked AI, or write "I didn't use AI".
+I used AI to understand Flutter setup, troubleshoot errors, and learn how to complete the greeting function.
